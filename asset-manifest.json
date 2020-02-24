@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bookify/static/css/main.36235ec3.chunk.css",
-    "main.js": "/bookify/static/js/main.df57d577.chunk.js",
-    "main.js.map": "/bookify/static/js/main.df57d577.chunk.js.map",
+    "main.js": "/bookify/static/js/main.772dfb46.chunk.js",
+    "main.js.map": "/bookify/static/js/main.772dfb46.chunk.js.map",
     "runtime-main.js": "/bookify/static/js/runtime-main.1e43794e.js",
     "runtime-main.js.map": "/bookify/static/js/runtime-main.1e43794e.js.map",
     "static/js/2.c68dae61.chunk.js": "/bookify/static/js/2.c68dae61.chunk.js",
     "static/js/2.c68dae61.chunk.js.map": "/bookify/static/js/2.c68dae61.chunk.js.map",
     "index.html": "/bookify/index.html",
-    "precache-manifest.a14b1ea908c35724502211831d1c66d4.js": "/bookify/precache-manifest.a14b1ea908c35724502211831d1c66d4.js",
+    "precache-manifest.d0d69c5a9b1a954f176a2b4e9129713a.js": "/bookify/precache-manifest.d0d69c5a9b1a954f176a2b4e9129713a.js",
     "service-worker.js": "/bookify/service-worker.js",
     "static/css/main.36235ec3.chunk.css.map": "/bookify/static/css/main.36235ec3.chunk.css.map",
     "static/js/2.c68dae61.chunk.js.LICENSE.txt": "/bookify/static/js/2.c68dae61.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1e43794e.js",
     "static/js/2.c68dae61.chunk.js",
     "static/css/main.36235ec3.chunk.css",
-    "static/js/main.df57d577.chunk.js"
+    "static/js/main.772dfb46.chunk.js"
   ]
 }

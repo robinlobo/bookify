@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da7072ff4d03294a1be4108f49adbf1e",
+    "revision": "e46755d734e35bd4626b76868eb42699",
     "url": "/bookify/index.html"
   },
   {
-    "revision": "8d3129e8cb82d7ead02d",
+    "revision": "46e2ed9be3050a119088",
     "url": "/bookify/static/css/main.36235ec3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bookify/static/js/2.c68dae61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8d3129e8cb82d7ead02d",
-    "url": "/bookify/static/js/main.df57d577.chunk.js"
+    "revision": "46e2ed9be3050a119088",
+    "url": "/bookify/static/js/main.772dfb46.chunk.js"
   },
   {
     "revision": "1876bdab4a031b1cbf74",
