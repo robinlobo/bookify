@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/bookify/static/css/main.d5d2cbbb.chunk.css",
-    "main.js": "/bookify/static/js/main.0e153db4.chunk.js",
-    "main.js.map": "/bookify/static/js/main.0e153db4.chunk.js.map",
+    "main.css": "/bookify/static/css/main.eee8dabc.chunk.css",
+    "main.js": "/bookify/static/js/main.f704f54c.chunk.js",
+    "main.js.map": "/bookify/static/js/main.f704f54c.chunk.js.map",
     "runtime-main.js": "/bookify/static/js/runtime-main.1e43794e.js",
     "runtime-main.js.map": "/bookify/static/js/runtime-main.1e43794e.js.map",
-    "static/js/2.56499849.chunk.js": "/bookify/static/js/2.56499849.chunk.js",
-    "static/js/2.56499849.chunk.js.map": "/bookify/static/js/2.56499849.chunk.js.map",
+    "static/js/2.46d0d328.chunk.js": "/bookify/static/js/2.46d0d328.chunk.js",
+    "static/js/2.46d0d328.chunk.js.map": "/bookify/static/js/2.46d0d328.chunk.js.map",
     "index.html": "/bookify/index.html",
-    "precache-manifest.4fe0a2518f393b843d77e32bccf9fb3f.js": "/bookify/precache-manifest.4fe0a2518f393b843d77e32bccf9fb3f.js",
+    "precache-manifest.11e23f399bbbfec1544b2bc5b9dee24f.js": "/bookify/precache-manifest.11e23f399bbbfec1544b2bc5b9dee24f.js",
     "service-worker.js": "/bookify/service-worker.js",
-    "static/css/main.d5d2cbbb.chunk.css.map": "/bookify/static/css/main.d5d2cbbb.chunk.css.map",
-    "static/js/2.56499849.chunk.js.LICENSE.txt": "/bookify/static/js/2.56499849.chunk.js.LICENSE.txt"
+    "static/css/main.eee8dabc.chunk.css.map": "/bookify/static/css/main.eee8dabc.chunk.css.map",
+    "static/js/2.46d0d328.chunk.js.LICENSE.txt": "/bookify/static/js/2.46d0d328.chunk.js.LICENSE.txt",
+    "static/media/logo.5d5d9eef.svg": "/bookify/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1e43794e.js",
-    "static/js/2.56499849.chunk.js",
-    "static/css/main.d5d2cbbb.chunk.css",
-    "static/js/main.0e153db4.chunk.js"
+    "static/js/2.46d0d328.chunk.js",
+    "static/css/main.eee8dabc.chunk.css",
+    "static/js/main.f704f54c.chunk.js"
   ]
 }
