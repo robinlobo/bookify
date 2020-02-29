@@ -10,36 +10,36 @@ class Directory extends React.Component {
     this.state = {
       sections: [
         {
-          title: "hats",
-          imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+          title: "biography",
+          imageUrl: "https://images.unsplash.com/photo-1528309819786-7671da26b42c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=393&q=80",
           id: 1,
-          linkUrl: "shop/hats"
+          linkUrl: "shop/biography"
         },
         {
-          title: "jackets",
-          imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+          title: "fantasy",
+          imageUrl: "https://images.unsplash.com/photo-1515816052601-210d5501d471?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
           id: 2,
-          linkUrl: "shop/jackets"
+          linkUrl: "shop/fantasy"
         },
         {
-          title: "sneakers",
-          imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+          title: "nonfiction",
+          imageUrl: "https://images.unsplash.com/photo-1565116175827-64847f972a3f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
           id: 3,
-          linkUrl: "shop/sneakers"
+          linkUrl: "shop/nonfiction"
         },
         {
-          title: "womens",
-          imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
+          title: "pschology",
+          imageUrl: "https://images.unsplash.com/photo-1570599560373-92ba6bb38cfd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80",
           size: "large",
           id: 4,
-          linkUrl: "shop/womens"
+          linkUrl: "shop/pschology"
         },
         {
-          title: "mens",
-          imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+          title: "science",
+          imageUrl: "https://images.unsplash.com/photo-1569000972106-9ebf8c4edad6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
           size: "large",
           id: 5,
-          linkUrl: "shop/mens"
+          linkUrl: "shop/science"
         }
       ]
     };
@@ -49,8 +49,8 @@ class Directory extends React.Component {
     return (
       <div className="directory-menu">
           { this.state.sections.map(
-              ({title, imageUrl, id, size}) => (
-                <MenuItem key={id} title={title} imageUrl={imageUrl} size={size}/>          
+              ({ id, ...otherSectionProps }) => (
+                <MenuItem key={id} {...otherSectionProps}/>          
               )
           ) }
       </div>
